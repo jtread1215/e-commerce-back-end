@@ -16,4 +16,4 @@ This application uses the following technologies:
 Screencastify: https://drive.google.com/file/d/1PJibAC1gH7sjvi1IIqpKGCZp8TEiAcMV/view
 
 # Links
-GitHub: 
+GitHub: https://jtread1215.github.io/e-commerce-back-end/
